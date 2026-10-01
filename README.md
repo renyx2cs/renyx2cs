@@ -18,4 +18,4 @@
 - Contribute to open-source projects for social good
 
 ## 📫 Connect with me
-[LinkedIn]((https://www.linkedin.com/in/adrish-ghosh-3763b6292/))
+[LinkedIn](https://www.linkedin.com/in/adrish-ghosh-3763b6292/)
