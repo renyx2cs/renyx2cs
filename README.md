@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ren👋
 
-<!--
-**renyx2cs/renyx2cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) student at KIIT University
+🌱 Founder of PATH, working with youth to create community change
+🌍 Exploring how technology can help achieve the UN SDGs
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Learning Python and building my CS foundations
+- Self-studying core B.Tech subjects
+- Planning my first tech-for-good project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 🎯 Goals
+- Build projects linked to SDG 4 (Quality Education) and SDG 13 (Climate Action)
+- Contribute to open-source projects for social good
+
+## 📫 Connect with me
+[LinkedIn]((https://www.linkedin.com/in/adrish-ghosh-3763b6292/))
